@@ -4,7 +4,7 @@ The Triple Peaks Library webpage is the first project in the Software Engineerin
 program at TripleTen. It was created using HTML and CSS, based on a design brief.
 
 You can view and interact with the site here: https://g-dilek.github.io/se_project_library
-
+ 
 ## Project features
 
 - Semantic HTML5
